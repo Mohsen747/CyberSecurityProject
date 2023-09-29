@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sganj
+ *
+ */
+module LambdaTripProject {
+}
